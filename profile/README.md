@@ -27,7 +27,7 @@ The entire document containing the development process and mental processes of t
 
 ## Team:
 ![One-Step](https://github.com/WHS-One-Step/.github/blob/master/team.png)
-- Ben Lou (Coordinator): Circuitry and Stabilization, Design
+- Ben Luu (Coordinator): Circuitry and Stabilization, Design
 - Christopher Gholmieh: Artificial Intelligence, Calculations, Arduino, and Optimizations.
 - Jacob Andal: Stabilization & 3D-Printing
 - Christian Ishiki: Stabilization & Materials
