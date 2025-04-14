@@ -26,7 +26,7 @@ Shared libraries were produced using the **GCC** compiler. Lastly, bash was used
 The entire document containing the development process and mental processes of the teammates is [here](https://docs.google.com/document/d/19fnh3jgbUX5eb0fLQix96BV6Mby11RzgMaiaW786JXY/edit?usp=sharing).
 
 ## Team:
-![One-Step](./team.png)
+![One-Step](https://github.com/WHS-One-Step/.github/blob/master/team.png)
 - Ben Lou (Coordinator): Circuitry and Stabilization, Design
 - Christopher Gholmieh: Artificial Intelligence, Calculations, Arduino, and Optimizations.
 - Jacob Andal: Stabilization & 3D-Printing
