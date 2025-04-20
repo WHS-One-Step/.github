@@ -30,7 +30,7 @@ The entire document containing the development process and mental processes of t
 - Ben Luu (Coordinator): Circuitry and Stabilization, Design
 - Christopher Gholmieh: Artificial Intelligence, Calculations, Arduino, and Optimizations.
 - Jacob Andal: Stabilization & 3D-Printing
-- Christian Ishiki: Stabilization & Materials
+- Cristian Ishiki: Stabilization & Materials
 - Saahir Kadri: Pulse Width Modulation
 
 ## Packages & Libraries:
